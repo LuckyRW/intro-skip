@@ -1,0 +1,7 @@
+{
+  "name": "Intro Skip",
+  "license": "AGPL-3.0-only",
+  "entry": "src/index.ts",
+  "outfile": "dist/intro-skip.js",
+  "gameVersion": "1.3.0.0"
+}
